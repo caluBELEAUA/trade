@@ -1,0 +1,59 @@
+{
+  "pins" : [
+    {
+      "identity" : "difference",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/krzysztofzablocki/Difference.git",
+      "state" : {
+        "revision" : "02fe1111edc8318c4f8a0da96336fcbcc201f38b",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "nuke",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kean/Nuke.git",
+      "state" : {
+        "revision" : "93c8dc78fbc0aa3538a0db460eb389d4180af242",
+        "version" : "11.3.1"
+      }
+    },
+    {
+      "identity" : "stream-chat-swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/GetStream/stream-chat-swift.git",
+      "state" : {
+        "revision" : "ddd4e0710cc94db0e021b77553460c8fc1338fcb",
+        "version" : "4.37.0"
+      }
+    },
+    {
+      "identity" : "stream-chat-swift-test-helpers",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/GetStream/stream-chat-swift-test-helpers.git",
+      "state" : {
+        "revision" : "938bba9a3714e3d139d9460fcd6ee9b851e33807",
+        "version" : "0.2.11"
+      }
+    },
+    {
+      "identity" : "stream-chat-swiftui",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/getstream/stream-chat-swiftui",
+      "state" : {
+        "branch" : "main",
+        "revision" : "77017399eac7f976d3d763f1c0f7451b6ce620f8"
+      }
+    },
+    {
+      "identity" : "swifter",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/httpswift/swifter",
+      "state" : {
+        "revision" : "9483a5d459b45c3ffd059f7b55f9638e268632fd",
+        "version" : "1.5.0"
+      }
+    }
+  ],
+  "version" : 2
+}
